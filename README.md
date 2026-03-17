@@ -67,4 +67,4 @@ The final output is a Databricks Dashboard that visualizes:
 
     Real-time prediction for the next hour.
 
-![Dashboard Screenshot](images/databricks_dashboard.png)
+![Dashboard Screenshot](images/Actual vs Predicted Temperature.png)
